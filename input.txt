@@ -1,0 +1,4 @@
+My name is Anjali Sharma.
+I have done my schooling from Mother's International School
+My hobbies are Reading books and Listening to songs.
+Nowadays, I am observing that there is a lack of data and we have to scrape the data and remove a lot of noise from the data before I can use it to make any actual observations.   
